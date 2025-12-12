@@ -7,8 +7,8 @@ TerrainLayer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: mud_cracked_dry_03_disp_8k
-  m_DiffuseTexture: {fileID: 2800000, guid: 6f2148943aa32304eb04e2f1f32360cc, type: 3}
-  m_NormalMapTexture: {fileID: 2800000, guid: ee2fbe6f75cf8004bb91424280f1d237, type: 3}
+  m_DiffuseTexture: {fileID: 2800000, guid: 6b6d06cd92f91364d9b012556c9db533, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: 8ac273f6903d44c429cbffee95067994, type: 3}
   m_MaskMapTexture: {fileID: 0}
   m_TileSize: {x: 2, y: 2}
   m_TileOffset: {x: 0, y: 0}
