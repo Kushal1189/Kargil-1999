@@ -1,15 +1,8 @@
 fileFormatVersion: 2
-guid: 80c2198814d1a694f9044e4f5a861c2b
+guid: 0a1fae6416cc41a45bc3a45c89303c5a
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 15600000
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 188357
-  packageName: Procedural Terrain Painter
-  packageVersion: 1.0.5
-  assetPath: Assets/ProceduralTerrainPainter/_Demo/TerrainData/TerrainChunk_0.asset
-  uploadId: 762730
